@@ -12,7 +12,7 @@ Con Git cada cambio queda registrado con **quién lo hizo, cuándo y por qué** 
 
 Nos faltó saber **cuál de los tres archivos `.sql` es el vigente**, si el sistema llegó a usarse en producción y con cuántos usuarios, qué **versión de PHP** y de servidor requiere, cómo se instala y qué partes del proceso de residencia cubre realmente. También nos faltó saber si los documentos PDF del repositorio son reales o de prueba. En un proyecto real se lo pediríamos al **desarrollador original** (si se le puede contactar), al **departamento que usaba el sistema** (División de Estudios Profesionales o Gestión Tecnológica y Vinculación) y al **área de sistemas** que lo tenía instalado.
 
-— *Myrka (QA / Documentador)*
+— *Myrka Salazar (QA / Documentador)*
 
 ## 3\. ¿Por qué conviene trabajar en un fork y no directamente en el repositorio original?
 
